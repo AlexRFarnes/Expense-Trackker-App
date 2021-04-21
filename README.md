@@ -18,9 +18,9 @@ An app to keep track of your balance, add your incomes and expenses and keep tra
 
 ## Screenshots
 
-![Screenshot]()
+![Screenshot](https://user-images.githubusercontent.com/57517804/115487877-254f3080-a28c-11eb-81f9-f8df9566fdc5.png)
 
-[Demo]()
+[Demo](https://goofy-almeida-ede54e.netlify.app)
 
 ## Built With
 
